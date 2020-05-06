@@ -1,0 +1,30 @@
+Cat face 2+2?
+1)4
+2)8
+1
+Mate
+##
+In ce limbaj este scris codul?
+PHP
+Java
+2
+Info
+##
+In ce luna se sarbartoreste Pastele?
+Aprilie
+Iunie
+1
+Istorie
+##
+Care e cel mai mare munte din Romania?
+Mont Blanc
+Moldoveanu
+2
+Geo
+##
+Ce e H2O?
+Apa
+Foc
+1
+Chimie
+##
